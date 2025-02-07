@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Huzaifa Safdar
 - 📖 Degree : Bachelors in Computer Science (3RD SEMESTER)
-- 👀 I’m Currently Studying in Comsats University Islamabad, Abbottabad Campus.
+- 👀 I’m Currently Studying in COMSATS University Islamabad, Abbottabad Campus.
 - 🌱 I’m currently Experienced in C language and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
