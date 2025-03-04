@@ -10,4 +10,4 @@
 📫 Reach me at:<br>
 Email : chdps257@gmail.com <br>
 Linkedin : www.linkedin.com/in/huzaifa-safdar-86646b2ba <br>
-⚡ Fun fact: I love exploring new technologies and optimizing code for efficiency! br>
+⚡ Fun fact: I love exploring new technologies and optimizing code for efficiency! 
