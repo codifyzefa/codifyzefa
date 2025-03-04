@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Huzaifa Safdar
-- 📖 Degree : Bachelors in Computer Science (3RD SEMESTER)
-- 👀 I’m Currently Studying in COMSATS University Islamabad, Abbottabad Campus.
-- 🌱 I’m currently Experienced in C language and Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Huzaifa Safdar
+🎓 Bachelor’s in Computer Science (4th Semester)
+🏛 COMSATS University Islamabad, Abbottabad Campus
 
-<!---
-codifyzefa/codifyzefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+💻 Passionate about software development and problem-solving.
+🔹 Experienced in C and Java, with a strong foundation in programming principles.
+🤝 Looking to collaborate on open-source projects, software development, and coding challenges.
+🌱 Currently learning Data Structures, Algorithms, and Object-Oriented Programming.
+📫 Reach me at: 
+Email : chdps257@gmail.com
+Linkedin : www.linkedin.com/in/huzaifa-safdar-86646b2ba
+⚡ Fun fact: I love exploring new technologies and optimizing code for efficiency!
