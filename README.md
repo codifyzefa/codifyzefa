@@ -1,4 +1,4 @@
-👋 #Hi, I'm Huzaifa Safdar
+👋 # Hi, I'm Huzaifa Safdar
 #🏛 COMSATS University Islamabad, Abbottabad Campus
 
 #🚀 About Me
